@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Marcos
+# 👋 Hi! I'm Marcos
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=marcosrg9&show_icons=true)
 
@@ -43,9 +43,9 @@ From the first moment I started using Angular, I had to learn TypeScript by forc
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 
-## 🙇‍♂️ Things I am learning
+<!-- ## 🙇‍♂️ Things I am learning
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) -->
 
 ## 👨‍🔧 I work with
 
