@@ -1,8 +1,8 @@
 # 👋 Hi! I'm Marcos
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=marcosrg9&show_icons=true&theme=github_dark&border_color=21262d">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcosrg9&show_icons=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=marcosrg9&show_icons=true&count_private=true&theme=github_dark&border_color=21262d">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcosrg9&show_icons=true&count_private=true">
 </picture>
 
 I am a web developer, specifically fullstack.
